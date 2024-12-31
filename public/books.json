@@ -1,0 +1,124 @@
+[
+    {
+        "bookId": "1",
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co.com/QCRCpCH/kindpng-4945926-1-1.png",
+        "review": "A gripping psychological thriller with unexpected twists. This book masterfully delves into the mind of a silent protagonist, keeping readers on edge as the story unfolds layer by layer.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": "2",
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co.com/X4dXnYb/kindpng-5624060-1.png",
+        "review": "A moving memoir about resilience and self-discovery. Westover's journey from a secluded life to earning a PhD is both heart-wrenching and inspiring, highlighting the transformative power of education.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Inspiration"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "3",
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://i.ibb.co.com/mByJtCR/kindpng-2193744-1.png",
+        "review": "An insightful guide to building lasting habits. James Clear presents actionable strategies backed by science to help readers understand how small changes can lead to remarkable personal growth.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": [
+            "Productivity",
+            "Psychology"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "4",
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co.com/9yMr04L/kindpng-81724-1.png",
+        "review": "A beautifully written mystery set in the wild marshlands. Owens crafts a haunting tale of survival, love, and loss with vivid descriptions and deeply emotional storytelling.",
+        "totalPages": 368,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Mystery",
+            "Drama"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "5",
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co.com/Dpb64DL/kindpng-7318921.png",
+        "review": "An intimate and inspiring memoir from the former First Lady. Michelle Obama shares her journey through life's challenges, offering wisdom and hope while recounting her personal and professional milestones.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Inspiration"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "6",
+        "bookName": "Dune",
+        "author": "Frank Herbert",
+        "image": "https://i.ibb.co.com/sCwm0rP/kindpng-2592315-1.png",
+        "review": "A timeless science fiction epic about politics and power. Herbert's world-building is unparalleled, creating a rich tapestry of intrigue, environmentalism, and the human spirit's resilience.",
+        "totalPages": 412,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": [
+            "Classic",
+            "Adventure"
+        ],
+        "publisher": "Chilton Books",
+        "yearOfPublishing": 1965
+    },
+    {
+      "bookId": "7",
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://i.ibb.co.com/r5n3TrL/kindpng-1064993.png",
+      "review": "A mesmerizing tale of a magical competition. Morgenstern weaves a story filled with vivid imagery, captivating characters, and an enchanting circus that transcends imagination.",
+      "totalPages": 387,
+      "rating": 4.6,
+      "category": "Fantasy",
+      "tags": ["Magic", "Romance"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": "8",
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co.com/QCRCpCH/kindpng-4945926-1-1.png",
+      "review": "An inspirational story of self-discovery and following one's dreams. Coelho's timeless classic encourages readers to listen to their hearts and pursue their personal legends with courage.",
+      "totalPages": 208,
+      "rating": 4.7,
+      "category": "Philosophy",
+      "tags": ["Adventure", "Spiritual"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+]
